@@ -1,1 +1,0 @@
-cat dom.txt | grep xrgw -P 400 -I url python scrap3.py https://url
